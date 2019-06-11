@@ -8,32 +8,36 @@
 # Site settings
 lang: en
 title: Jekyll-IndieWeb
-email: your-email@domain.com
+email: infominer@protonmail.com
 description: A Jekyll quick start to getting up and going with the indieweb.
 # Webmentions - leave blank (remove "yes") if you would not like to receive & display webmentions from other sites
 webmentions:
 
-baseurl: "/jekyll-indieweb" # the subpath of your site, e.g. /blog
-url: "http://miklb.github.io/" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
-instagram_username: jekyll
-flickr_username: jekyll
+github                   : [metadata]
+repository               : "web-work-tools/indieweb"
+
+
+baseurl: "/indieweb" # the subpath of your site, e.g. /blog
+url: "http://webwork.tools/" # the base hostname & protocol for your site
+twitter_username: infominer33
+github_username:  infominer33
+instagram_username: ""
+flickr_username: ""
 foursquare_username:
 # Tumblr URL
-tumblr_url: http://tumblr.com
+tumblr_url: ""
 # Linkedin profile URL - Expecting a full url, not username
-linkedin_url: http://linkedin.com
+linkedin_url: ""
 # Facebook profile URL - Expecting a full url, not username
-facebook_url: http://facebook.com
+facebook_url: ""
 
 
 # Can be over ridden with author: in Front Matter
-author: Your Name
-bio: This is a small blurb that is used on the single post h-card that can be used separate from `site.description`.
+author: Infominer
+bio: "Full-Time Web-worker: Crypto-Curation and Histories ⧉ Bitcoin, Blockchain, DecentralizedID ⧉ Research, Publishing, Indieweb ⧉ her/him"
 
 # Expecting a full url, not relative to site.url
-author_img: https://avatars3.githubusercontent.com/u/3083652
+author_img: https://infominer.id/assets/img/infolit.png
 
 # Build settings
 markdown: kramdown
@@ -43,5 +47,6 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-gist
+  - jekyll-redirect-from
 
 paginate: 5
