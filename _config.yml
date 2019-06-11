@@ -7,18 +7,18 @@
 
 # Site settings
 lang: en
-title: Jekyll-IndieWeb
+title: Decentralized Web Histories
 email: infominer@protonmail.com
 description: A Jekyll quick start to getting up and going with the indieweb.
 # Webmentions - leave blank (remove "yes") if you would not like to receive & display webmentions from other sites
 webmentions:
 
 github                   : [metadata]
-repository               : "web-work-tools/indieweb"
+repository               : "sourcecrypto/decentralized-web"
 
 
-baseurl: "/indieweb" # the subpath of your site, e.g. /blog
-url: "http://webwork.tools/" # the base hostname & protocol for your site
+baseurl: "/decentralized-web" # the subpath of your site, e.g. /blog
+url: "http://sourcecrypto.pub/" # the base hostname & protocol for your site
 twitter_username: infominer33
 github_username:  infominer33
 instagram_username: ""
