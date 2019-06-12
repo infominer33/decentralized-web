@@ -21,15 +21,6 @@ baseurl: "/decentralized-web" # the subpath of your site, e.g. /blog
 url: "http://sourcecrypto.pub/" # the base hostname & protocol for your site
 twitter_username: infominer33
 github_username:  infominer33
-instagram_username: ""
-flickr_username: ""
-foursquare_username:
-# Tumblr URL
-tumblr_url: ""
-# Linkedin profile URL - Expecting a full url, not username
-linkedin_url: ""
-# Facebook profile URL - Expecting a full url, not username
-facebook_url: ""
 
 
 # Can be over ridden with author: in Front Matter
@@ -45,6 +36,7 @@ markdown: kramdown
 twitter:
   username: infominer33
   card: summary_large_image
+  image: 
 
 plugins:
   - jekyll-paginate
