@@ -2,7 +2,7 @@
 layout: post
 title:  "Jekyll Indieweb Deployed!"
 description: An implementation of miklb/jekyll-indieweb
-date:   "2019-05-19"
+date:   2019-05-19
 category: indieweb 
 og_image: https://infominer.id/indieweb/indieweb-willow-brugh.jpg
 tags: 
@@ -12,10 +12,9 @@ tags:
 subtitle: An implementation of miklb/jekyll-indieweb
 ---
 
-[**UPDATE**] Now that I've tested out [project-pages](https://github.com/projectpages/project-pages/) and its really cool. BUT I"M BACK!
+* **Previous Update** Now that I've tested out [project-pages](https://github.com/projectpages/project-pages/) and its really cool. BUT I"M BACK!
 
 <a href="https://micro.blog/infominer" rel="me">micro.blog/infominer</a>
-
 
 ---
 

@@ -42,6 +42,9 @@ author_img: https://infominer.id/assets/img/infolit.png
 # Build settings
 markdown: kramdown
 
+twitter:
+  username: infominer33
+  card: summary_large_image
 
 plugins:
   - jekyll-paginate
