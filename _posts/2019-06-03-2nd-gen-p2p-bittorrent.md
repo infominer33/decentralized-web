@@ -27,5 +27,6 @@ subtitle: Description of the participating organizations at the decentralized-we
 * https://www.wired.com/2017/01/the-inside-story-of-bittorrents-bizarre-collapse/
 
 * [visual.ly - infographic -history-bittorrent](https://visual.ly/community/infographic/technology/history-bittorrent)
-![](https://web-work.tools/decentralized-web/assets/images/a-history-of-bittorrent.png)
+
+![](https://sourcecrypto.pub/decentralized-web/assets/images/a-history-of-bittorrent.png)
 
