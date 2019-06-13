@@ -24,10 +24,8 @@ github_username:  infominer33
 
 
 # Can be over ridden with author: in Front Matter
-author: 
-  name: Infominer
-  twitter: infominer33
-  bio: "Full-Time Web-worker: Crypto-Curation and Histories ⧉ Bitcoin, Blockchain, DecentralizedID ⧉ Research, Publishing, Indieweb ⧉ her/him"
+author: Infominer
+bio: "Full-Time Web-worker: Crypto-Curation and Histories ⧉ Bitcoin, Blockchain, DecentralizedID ⧉ Research, Publishing, Indieweb ⧉ her/him"
 
 # Expecting a full url, not relative to site.url
 author_img: https://infominer.id/assets/img/infolit.png
