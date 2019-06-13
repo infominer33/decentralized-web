@@ -1,8 +1,15 @@
 <!-- begin _includes/seo.html -->
-{%- if site.url -%}
-  {%- assign seo_url = site.url | append: site.baseurl -%}
-{%- endif -%}
-{%- assign seo_url = seo_url | default: site.github.url -%}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-132558656-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-132558656-5');
+</script>
+
+{%- assign seo_url = site.url | append: site.baseurl -%}
 
 {% assign title_separator = site.title_separator | default: '-' | replace: '|', '&#124;' %}
 
