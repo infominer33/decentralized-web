@@ -118,6 +118,7 @@ DEPENDENCIES
   bundler (~> 2.0.1)
   jekyll-indieweb!
   jekyll-redirect-from
+  jekyll-sitemap
   rake (~> 12.0)
 
 BUNDLED WITH

@@ -45,5 +45,6 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 paginate: 7
