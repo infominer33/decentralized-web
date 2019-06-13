@@ -34,9 +34,10 @@ author_img: https://infominer.id/assets/img/infolit.png
 markdown: kramdown
 
 twitter:
+  site: sourcecrypto
   username: infominer33
   card: summary_large_image
-  image: 
+  image: Decentralized-Web-Histories.png
 
 plugins:
   - jekyll-paginate
@@ -44,5 +45,5 @@ plugins:
   - jekyll-gist
   - jekyll-redirect-from
   - jekyll-sitemap
-  
+
 paginate: 5
