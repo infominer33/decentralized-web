@@ -18,13 +18,13 @@ repository               : "sourcecrypto/decentralized-web"
 
 
 baseurl: "/decentralized-web" # the subpath of your site, e.g. /blog
-url: "http://sourcecrypto.pub/" # the base hostname & protocol for your site
+url: "http://sourcecrypto.pub" # the base hostname & protocol for your site
 twitter_username: infominer33
 github_username:  infominer33
 
 
 # Can be over ridden with author: in Front Matter
-author: Infominer
+author: infominer33
 bio: "Full-Time Web-worker: Crypto-Curation and Histories ⧉ Bitcoin, Blockchain, DecentralizedID ⧉ Research, Publishing, Indieweb ⧉ her/him"
 
 # Expecting a full url, not relative to site.url
@@ -34,13 +34,13 @@ author_img: https://infominer.id/assets/img/infolit.png
 markdown: kramdown
 
 twitter:
-  username: infominer33
+  site: sourcecrypto
   card: summary_large_image
-  image: 
+image: https://sourcecrypto.pub/decentralized-web/assets/images/Decentralized-Web-Histories.png
+
 
 plugins:
   - jekyll-paginate
-  - jekyll-seo-tag
   - jekyll-gist
   - jekyll-redirect-from
 
