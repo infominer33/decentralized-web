@@ -43,5 +43,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-redirect-from
-
+  - jekyll-sitemap
+  
 paginate: 5
