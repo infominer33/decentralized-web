@@ -30,7 +30,7 @@ author: Kyle Den Hartog
 #"Full-Time Web-worker: Crypto-Curation and Histories ⧉ Bitcoin, Blockchain, DecentralizedID ⧉ Research, Publishing, Indieweb ⧉ her/him"
 
 # Expecting a full url, not relative to site.url
-author_img: https://sourcecrypto.pub/decentralized-web/assets/images/avatar.jpg
+author_img: https://sourcecrypto.pub/decentralized-web/assets/images/kyle_dh.png
 
 # Build settings
 markdown: kramdown
