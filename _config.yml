@@ -8,35 +8,37 @@
 # Site settings
 lang: en
 title: Decentralized Web Histories
-email: mail@kyledenhartog.com
 description: 'An Exploration of P2P and Decentralized Tech: From the Dawn of Computing'
+baseurl: "/decentralized-web" 
+url: "https://sourcecrypto.pub"
 # Webmentions - leave blank (remove "yes") if you would not like to receive & display webmentions from other sites
 webmentions:
 
 github                   : [metadata]
 repository               : "sourcecrypto/decentralized-web"
 
-
-baseurl: "/decentralized-web" # the subpath of your site, e.g. /blog
-url: "https://sourcecrypto.pub" # the base hostname & protocol for your site
+#author stuff
 twitter_username: kyle_dh
 github_username: kdenhartog
-
-
-# Short bio (displayed in user profile at end of posts)
+email: mail@kyledenhartog.com
 bio: "<a href='https://kyledenhartog.com/'>Kyle Den Hartog</a> wants to see a world where passwords are eliminated as the primary form of authentication. This vision led him to be an eager contributor to the design and development of DID-Auth along with other standards in the decentralized identity community. <br /><br/>As part of his commitment to the cause, he has <a href='https://web-work.tools/services/#iso-clients-who-want-bitcoin-related-content'>sponsored</a> some of the research required to create this resource."
 author: Kyle Den Hartog 
+author_img: https://sourcecrypto.pub/decentralized-web/assets/images/kyle_dh.png
+twitter:
+  username: sourcecrypto
 
 #"Full-Time Web-worker: Crypto-Curation and Histories ⧉ Bitcoin, Blockchain, DecentralizedID ⧉ Research, Publishing, Indieweb ⧉ her/him"
-
-# Expecting a full url, not relative to site.url
-author_img: https://sourcecrypto.pub/decentralized-web/assets/images/kyle_dh.png
 
 # Build settings
 markdown: kramdown
 
-twitter:
-  username: sourcecrypto
+# Analytics
+analytics:
+  provider               : google # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : UA-132558656-5
+    anonymize_ip         : true
+
 
 og_image: https://sourcecrypto.pub/decentralized-web/assets/images/Decentralized-Web-Histories.png
 
