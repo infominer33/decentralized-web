@@ -12,7 +12,7 @@ description: 'An Exploration of P2P and Decentralized Tech: From the Dawn of Com
 baseurl: "/decentralized-web" 
 url: "https://sourcecrypto.pub"
 # Webmentions - leave blank (remove "yes") if you would not like to receive & display webmentions from other sites
-webmentions:
+webmentions: yes
 
 github                   : [metadata]
 repository               : "sourcecrypto/decentralized-web"
