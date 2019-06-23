@@ -1,5 +1,9 @@
 main-nav:
-  - title: Home
+  - title: SourceCrypto.pub
+    url: https://sourcecrypto.pub
+  - title: Decentralized Web
     url: /
   - title: About
-    url: /about
+    url: /about/
+  - title: Indieweb
+    url: https://web-work.tools/indieweb/
