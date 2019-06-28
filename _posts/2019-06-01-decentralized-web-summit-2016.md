@@ -6,6 +6,7 @@ date:   2019-06-01
 category: history 
 tags: [decentralized-web, history, p2p]
 subtitle: Description of the participating organizations at the decentralized-web summit.
+permalink: "/decentralized-web-summit/"
 ---
 
 * https://2016.decentralizedweb.net/learn-more/

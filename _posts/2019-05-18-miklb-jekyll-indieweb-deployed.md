@@ -9,7 +9,8 @@ tags:
   - indieweb
   - github
   - jekyll
-subtitle: An implementation of miklb/jekyll-indieweb
+subtitle: "An implementation of miklb/jekyll-indieweb"
+permalink: "/jekyll/indieweb-deployed/"
 ---
 
 * **Previous Update** Now that I've tested out [project-pages](https://github.com/projectpages/project-pages/) and its really cool. BUT I"M BACK!

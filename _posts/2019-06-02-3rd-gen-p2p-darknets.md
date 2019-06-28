@@ -6,6 +6,7 @@ date:   2019-06-02
 category: history 
 tags: ["decentralized-web", "history", "p2p","darknets"]
 subtitle: Description of the participating organizations at the decentralized-web summit.
+permalink: /p2p/3rd-gen-darknets/
 ---
 
 ## Freenet

@@ -6,6 +6,7 @@ tags:
  - indieweb
  - Jekyll
 date: 2019-6-11
+permalink: /indieweb/reboot/
 ---
 
 When I first used this theme, it was in the middle of some updates, and I poked around the SSGiverse to see what else I could find.

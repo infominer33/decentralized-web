@@ -6,6 +6,8 @@ date:   2019-06-03
 category: history 
 tags: [decentralized-web, history, p2p, bittorrent, torrent]
 subtitle: Description of the participating organizations at the decentralized-web summit.
+permalink: /p2p/2nd-gen-bittorrent/
+
 ---
 
 

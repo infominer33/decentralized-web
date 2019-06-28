@@ -5,6 +5,7 @@ tags:
  - indieweb
  - Jekyll
 date: 2016-4-10
+permalink: /welcome-to-jekyll-indieweb/
 ---
 
 Welcome to Jekyll-Indieweb. The goal of this project was to provide someone without a web presence a quick and easy way to start using the basics of the [Indieweb](https://indiewebcamp.com).
