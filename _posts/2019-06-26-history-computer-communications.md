@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "A History of Computer Communications 1968-1988"
+title: "Study Guide: History Computer Communications 1968-1988"
 description: "The History of Computer Communications website grew out to understand the emergence and evolution of computer communications between 1968 and 1988."
-date:   2019-06-27
+date:   2019-06-26
 category: history 
 tags: [communications, history, p2p]
 subtitle: Description of the participating organizations at the decentralized-web summit.
@@ -120,34 +120,43 @@ A right combination of incentive and opportunity opened a market window for entr
 Roberts had other concerns. To make sense of how to expand the initial four-nodes into a cross-county network, he sought help from both new experts such as Howard Frank, and trusted friends such as Leonard Kleinrock. After months of testing, expansion began and pleasant surprises confirmed the value of having computers interconnected into a network. 
 ```
 
-* [Network Working Group Request for Comment:1](http://tools.ietf.org/html/rfc1)
-  **Host Software, Steve Crocker - 7 April 1969**
+* [Network Working Group Request for Comment: 1](http://tools.ietf.org/html/rfc1) - Host Software, Steve Crocker - 7 April 1969
 
-> The software for the ARPA Network exists partly in the IMPs and partly in the respective HOSTs.  BB&N has specified the software of the IMPs and it is the responsibility of the HOST groups to agree on HOST software.
->
-> During the summer of 1968, representatives from the initial four sites met several times to discuss the HOST software and initial experiments on the network.  There emerged from these meetings a working group of three, Steve Carr from Utah, Jeff Rulifson from SRI, and Steve Crocker of UCLA, who met during the fall and winter.  The most recent meeting was in the last week of March in Utah.  Also present was Bill Duvall of SRI who has recently started working with Jeff Rulifson.
->
->Somewhat independently, Gerard DeLoche of UCLA has been working on the HOST-IMP interface.
->
-> I present here some of the tentative agreements reached and some of the open questions encountered.  Very little of what is here is firm and reactions are expected.
+>Information is transmitted from HOST to HOST in bundles called messages.  A message is any stream of not more than 8080 bits, together with its header.  The header is 16 bits and contains the following information:
+
+```
+The software for the ARPA Network exists partly in the IMPs and partly in the respective HOSTs.  BB&N has specified the software of the IMPs and it is the responsibility of the HOST groups to agree on HOST software.
+```
 
 * [How the Internet was born: from the ARPANET to the Internet](http://theconversation.com/how-the-internet-was-born-from-the-arpanet-to-the-internet-68072)
-  >The openness of the RFC process helped encourage participation among the members of a very heterogeneous group of people, ranging from graduate students to professors and program managers. Following a “spirit of unrestrained participation in working group meetings”, the RFC method proved to be a critical asset for the people involved in the project. It helped them reflect openly about the aims and goals of the network, within and beyond its technical infrastructure.
-  >
-  >This particular culture informs the whole communication galaxy we call today the Internet; in fact, it is one of its defining elements. The offspring of the marriage between the RFC and the NGW are called web-logs, web forums, email lists, and of course social media while Internet-working is now a key-aspect in many processes of human interaction, ranging from solving technical issues, to finding solution to more complex social or political matters.
 
+```
+>The openness of the RFC process helped encourage participation among the members of a very heterogeneous group of people, ranging from graduate students to professors and program managers. Following a “spirit of unrestrained participation in working group meetings”, the RFC method proved to be a critical asset for the people involved in the project. It helped them reflect openly about the aims and goals of the network, within and beyond its technical infrastructure.
+
+This particular culture informs the whole communication galaxy we call today the Internet; in fact, it is one of its defining elements. The offspring of the marriage between the RFC and the NGW are called web-logs, web forums, email lists, and of course social media while Internet-working is now a key-aspect in many processes of human interaction, ranging from solving technical issues, to finding solution to more complex social or political matters.
+```
+
+* [History of Computers - P2P](http://wiki.sjs.org/wiki/index.php/History_of_Computers_-_P2P_Networks)
+```  
+Peer to peer networks can be configured over LAN or the Internet. Local area P2P networks can be configured to be either wired or wireless and allow the sharing of files, printers, and other resources between involved computers. Over the Internet, P2P networks can handle an extremely high volume of file sharing because the workload is distributed across many computers worldwide. Internet based P2P networks are less likely to fail or experience a traffic bottleneck than client-server networks for the same reason.[[3]](http://compnetworking.about.com/od/basicnetworkingfaqs/a/peer-to-peer.htm)
+
+The basic idea of P2P networking has been around since 1969, when the Internet Engineering Task Force pusblished its first Request for Comments.[[4]](http://tools.ietf.org/html/rfc1) However, the first dial-up P2P network was created in 1980 in the form of Usenet, which was a worldwide Internet discussion system. The difference between other web forums and Usenet was that Usenet did not depend on a central server or administrator-- it was distributed among a constantly changing group of servers that stored and forwarded messages to one another in bursts called news feeds. Individual users could read messages from and post messages to a local server, which would then send posted messages around the world.[[5]](http://en.wikipedia.org/wiki/Usenet) 
+```
 
 * [ARPANET establishes 1st computer-to-computer link, October 29, 1969](https://www.edn.com/electronics-blogs/edn-moments/4399541/ARPANET-establishes-1st-computer-to-computer-link--October-29--1969)
 
->Originally funded by ARPA (Advanced Research Projects Agency), now DARPA, within the United States Department of Defense, ARPANET was to be used for projects at universities and research laboratories in the US. The packet switching of the ARPANET was based on designs by British scientist Donald Davies and Lawrence Roberts of the Lincoln Laboratory.
->
+```
+Originally funded by ARPA (Advanced Research Projects Agency), now DARPA, within the United States Department of Defense, ARPANET was to be used for projects at universities and research laboratories in the US. The packet switching of the ARPANET was based on designs by British scientist Donald Davies and Lawrence Roberts of the Lincoln Laboratory.
+```
+
 >**Initially, ARPANET consisted of four IMPs at:**
 
-* the University of California, Los Angeles, which had an SDS Sigma 7 as the first computer attached to it;
-*  the Stanford Research Institute's Augmentation Research Center, where Douglas Engelbart is credited with creating the NLS (oN-Line System) hypertext system, with an SDS 940 that ran NLS being the first host attached;
-*  the University of California, Santa Barbara with the Culler-Fried Interactive Mathematics Center's IBM 360/75 running OS/MVT being the machine attached;
-*  And at the University of Utah's Computer Science Department, running a DEC PDP-10 running TENEX.
-
+```
+- the University of California, Los Angeles, which had an SDS Sigma 7 as the first computer attached to it;
+- the Stanford Research Institute's Augmentation Research Center, where Douglas Engelbart is credited with creating the NLS (oN-Line System) hypertext system, with an SDS 940 that ran NLS being the first host attached;
+- the University of California, Santa Barbara with the Culler-Fried Interactive Mathematics Center's IBM 360/75 running OS/MVT being the machine attached;
+- And at the University of Utah's Computer Science Department, running a DEC PDP-10 running TENEX.
+```
 
 * [The Communications Subnet: BBN 1969](http://www.historyofcomputercommunications.info/Book/4/4.1%20The%20Communications%20Subnet-%20BBN%201969.html)
 
@@ -188,7 +197,7 @@ The host-to-host group kept growing in members as more sites began to take conne
 
 * [Early Surprises: 1969 – 1970](http://www.historyofcomputercommunications.info/Book/4/4.8-EarlySurprises69-70.html)
 
-![](http://www.historyofcomputercommunications.info/images/BookImages/clip_image003_0001.png)
+![](https://imgur.com/cqprFlH.png)
 
 ```
 "The TIP was a big deal, because now suddenly here you had an IMP, and the question was, how could you hook up these terminals to it. And in fact what we did back then was a mistake necessitated by the economics of the situation. The first IMP's used 16k of memory. But you could put 32k of memory in the machine. So we used the bottom 16k for the IMP and we use the top 16k for the TIP. The TIP was an IMP that at the front-end was a multiplexer that would allow you to take all these terminals and multiplex them into memory. So that's really what the TIP was. It was a bunch of software that got written in 16k of memory, plus this multiplexer which we called, at the time, the multi-line controller; that was designed by Severo Ornstein. The TIP connected up to sixty-three terminals to the network. With the TIP, the ARPANET took-off."
@@ -337,6 +346,16 @@ Once constituted, the study group had to convince American computer companies to
 * [National Bureau of Standards and MITRE 1971-1979](http://www.historyofcomputercommunications.info/Book/6/6.13-NationalBureauStandardsMITRE71-79.html)
 * [In Perspective](http://www.historyofcomputercommunications.info/Book/6/6.14-InPerspective%20.html)
 
+### David Chaum Mix Networks 
+
+I'm not 100% on this...Chaum fits in around here somewhere.. I don't know of him specifically in relation to decentralization...
+
+[Origins of decentralized computing](https://en.wikipedia.org/wiki/Decentralized_computing#Origins_of_decentralized_computing)
+  >The origins of decentralized computing originate from the work of David Chaum.
+  >
+  >During 1979 he conceived the first concept of a decentralized computer system known as Mix Network. It enabled for an anonymous email communications network which decentralized the authentication of the messages in a protocol which would become the precursor to Onion Routing, the protocol of the TOR browser. Through this initial development of an anonymous communications network, David Chaum applied his Mix Network philosophy to design the world's first decentralized payment system and patented it in 1980 (Patent US4529870). Later in 1982, for his PhD dissertation, he wrote about the need for decentralized computing services in the paper Computer Systems Established, Maintained and Trusted by Mutually Suspicious Groups. 
+
+
 
 ### 7. Networking: Emergence 1979-1981
 
@@ -399,7 +418,7 @@ Engineering also had to be gearing up to introduce new, lower cost products once
 
 * [3Com: Product Strategy and Waiting for a PC](http://www.historyofcomputercommunications.info/Book/7/7.18-3Com-ProductStrategy-WaitingForPC.html)
 
-![](http://www.historyofcomputercommunications.info/images/BookImages/clip_image003_0014.png)
+![](https://imgur.com/BrRrTXP.png)
 
 ```
 "There are very few things that I blew Bob away with, but this was one of them. [See Exhibit 7.3 3Com Learning Curve]. I said: "OK, this is 1981 and this is 1986 and we've got to go from here to here." And Bob said: "What do you mean? How are we going to do that?" So I said: "Well, Bob, first of all, that's your job, figuring out how we're going to do it, but if we're going to make a mass market out of this, and we're going to connect PCs together, we've got to go from here to here, because taking a $2,000 Apple and spending $4,000 to connect it isn't going to compute. So we've got to figure out how to do that. And a way to do that is through semiconductor VLSI integration over time, so let's start with our Unibus."  
@@ -420,56 +439,172 @@ Then in August 1981, IBM introduced its personal computer: the IBM PC. In a few 
 
 * [Emerging LAN Competition  1981](http://www.historyofcomputercommunications.info/Book/8/8.1-EmergingLANCompetition-1981.html)
 * [Interlan](http://www.historyofcomputercommunications.info/Book/8/8.2-Interlan.html)
+
+
+```
+"I just thought it was time for me to do something else. So I started to think about computer networks, but I couldn't see it until I saw the first Blue Book.
+
+The biggest problem you have doing something proprietary from a small company is that nobody wants to buy it. So, if this thing really looks like it could be a standard, this is the place to do it. And there was only really one company that was visible in LANs and that was Ungermann-Bass. 3Com hadn't really announced any products yet, and it was really a consulting house.”
+
+```
+
 * [Bridge Communications](http://www.historyofcomputercommunications.info/Book/8/8.3-BridgeCommunications.html)
+
+```
+"During that six month period when we were raising money, I went to consult for Xerox, and what I did for Xerox was help document their XNS protocols, which then were put in the public domain."
+
+Carrico remembers:
+
+"We did Ethernet and XNS because those were the things that were closest to being a standard, and from day one, we felt that standards were going to be the key to our business."
+```
+
 * [Proteon](http://www.historyofcomputercommunications.info/Book/8/8.4-Proteon.html)
 * [Concord Data Systems](http://www.historyofcomputercommunications.info/Book/8/8.5-ConcordDataSystems.html)
+
+
+```
+ Not attending the meeting, but critical to being seen as a credible token bus company, was Kryskow of Gould-Modicon who had committed to join Miller’s new company. He remembers:
+
+"I mean I came up with a basic approach which we talked about. It was a three or four hour meeting. It was a basic strategy. We said: 'Hey, look. We want to do token bus LANs, but that's a long-range thing, I mean, we're committed to standards, and a standard doesn't exist, so one of the things we have to do is get it through the standards committee. There's a lot of work. It's a system-oriented product. But we also have identified this other thing that we know a hell of a lot about. It's a market that's here and now. It's dial modems. And so, let's do both. There's a short range strategy, get the company going, and the longer range one which we thought, at the time, would be a higher growth field."
+```
+
 * [The Office of the Future, the PBX to CBX, and AT&T](http://www.historyofcomputercommunications.info/Book/8/8.6-Office-of-Future-PBX-CBX-ATT.html)
+
+```
+The PBX, first introduced in 1879, seemed the most obvious choice. [2] The PBX is an on-premises telephone exchange, or switch, that enables a large number of local telephones to interconnect to each other without involving an outside telephone service provider such as AT&T. (See Exhibit 8.0 The PBX.)
+```
+
+![](https://imgur.com/WH2ux5c.png)
+
+
 * [The IBM PC and IBM Token Ring LAN  1981 - 1982](http://www.historyofcomputercommunications.info/Book/8/8.7-IBM-PC-IBMTokenRingLAN981-82.html)
+
+```
+Other histories will reconstruct the decisions and actions within IBM leading up to and following early 1980 when executives realized IBM needed to sell a personal computer. Their customers were asking about them and clearly planning to buy desktop computers, if only for spreadsheet use. 
+```
+
+```
+" I remember the meeting well. One of the recommendations was we just adopt Ethernet. And the answer came back 'We can't do that, because you can't be an industry leader by following somebody else's implementation.'  And at the time it was already pretty clear that DEC was getting very closely aligned -- it wouldn't be so bad if it was Xerox only, but having DEC in the fray, that was like a declaration of war. I mean, the Axis Powers had formed, and IBM had to have a different solution, so the alternative was to pick the token ring.”
+```
+
+
 * [3Com, Ungermann-Bass and Sytek  1981](http://www.historyofcomputercommunications.info/Book/8/8.8-3Com-UngermanBass-Sytek.html)
-* [3Com](http://www.historyofcomputercommunications.info/Book/8/8.9-3Com.html)
-* [Ungermann-Bass](http://www.historyofcomputercommunications.info/Book/8/8.10-Ungermann-Bass.html)
-* [Sytek](http://www.historyofcomputercommunications.info/Book/8/8.11-Sytek.html)
-* [Data Communication Competitors 1981-1982](http://www.historyofcomputercommunications.info/Book/8/8.12-DataCommunicationCompetitors1981-1982.html)
-* [Micom](http://www.historyofcomputercommunications.info/Book/8/8.13-Micom.html)
-* [Codex](http://www.historyofcomputercommunications.info/Book/8/8.14-Codex.html)
-* [Other Data Communication Competitors](http://www.historyofcomputercommunications.info/Book/8/8.15-OtherDataCommunicationCompetitors.html)
+
+```
+"The credit Bob should get here is that he went out and bought an IBM PC and he brought the IBM PC and set it up in the middle of the design lab, and just set it there. And Ron Crane started pouring all over this thing and, before you knew, we understood everything we needed to know. We knew what the power slot budget was, we knew the physical size, we knew the chip count that we had to get to meet the power budget. So we began learning a lot of things.”
+
+As tempting as the IBM PC was, Krause kept the company focused on the plan to build a Multibus board and reduce the costs so that a PC Ethernet controller might be possible. At the time, the cost of an Ethernet controller was almost as much as a PC itself
+```
+
+
 * [Early LAN Competitors 1982](http://www.historyofcomputercommunications.info/Book/8/8.16-EarlyLANCompetitors1982.html)
 * [Interlan](http://www.historyofcomputercommunications.info/Book/8/8.17-Interlan.html)
+
+```
+“Once we had the hardware out, we basically wanted to make a decision about what protocol we were going to support, and there were a choice of two, XNS or TCPIP. We were looking for protocols that had certain characteristics that were efficient, that could be made to go fast. So we picked XNS, along with Ungermann-Bass and Bridge and 3‑Com and everybody else in the field, because if you looked at the two protocols from a technical point of view, XNS was designed for Ethernet, and TCP was designed for big wide area communications systems and had lots of overhead to it.”
+```
+
 * [Bridge Communications](http://www.historyofcomputercommunications.info/Book/8/8.18-BridgeCommunications.html)
-* [Concord Data Systems](http://www.historyofcomputercommunications.info/Book/8/8.19-ConcordDataSystems.html)
-* [1982](http://www.historyofcomputercommunications.info/Book/8/8.20-SecondWaveofLANCompetition-1982.html)
-* [Digital Equipment Corporation (DEC)](http://www.historyofcomputercommunications.info/Book/8/8.21-DigitalEquipmentCorporation(DEC).html)
-* [Excelan](http://www.historyofcomputercommunications.info/Book/8/8.22-Excelan.html)
-* [Communications Machinery Corporation (CMC)](http://www.historyofcomputercommunications.info/Book/8/8.23-CommunicationsMachineryCorporation(CMC).html)
-* [General Electric](http://www.historyofcomputercommunications.info/Book/8/8.24-GeneralElectric.html)
-* [T and IBM Anti-Trus tLawsuits](http://www.historyofcomputercommunications.info/Book/8/8.25-SettlementofATTandIBMAntiTrustLawsuits.html)
-* [T Settlement January 1982](http://www.historyofcomputercommunications.info/Book/8/8.26-ATTSettlementJan1982.html)
-* [LANs](http://www.historyofcomputercommunications.info/Book/8/8.27-ATTIntroducesCBXsLANs.html)
+
+```
+“We did Ethernet and XNS because those were the things that were closest to being a standard. We had no interest in doing an OmniNet[8] -like thing, or anything like that. XNS, by the way, is clearly the best local area network protocol ever written, and is dramatically superior in performance to TCP/IP. We did XNS, and we did not do TCP/IP, because we knew that it had a lot of warts in a local area network situation. It was reasonably easy to sell XNS early on because at least it was in the public domain.”
+```
+* [Second Wave of Lan Competition 1982](http://www.historyofcomputercommunications.info/Book/8/8.20-SecondWaveofLANCompetition-1982.html)
+* [Settlement of AT&T and IBM Anti-Trust Lawsuits](http://www.historyofcomputercommunications.info/Book/8/8.25-SettlementofATTandIBMAntiTrustLawsuits.html)
+
+![](https://imgur.com/67CvQvi.png)
+
+```
+In both Houses of Congress legislation began emerging seeking to change the terms of the agreement to better assure that local telephone rates remained low and the principle of universal service remained intact. Concerned elected officials still saw long distance telephone service as a monopoly, a monopoly needing to be regulated, in part, so that subsidies could continue to flow from interstate to intrastate revenues, and thus help sustain low local rates.  The Justice Department, AT&T, and now an angry Judge Greene, who saw his authority abused by the New Jersey court, all wanted their agreement to be made final and not complicated by legislative action. AT&T began a publicity campaign inciting public protest over legislation, which proved successful, and the three parties succeeded in having court authority transferred to Judge Greene’s court. Judge Greene then inserted ten modifications, all of which were accepted, and the settlement was finalized on August 24, 1982. One of the ten amendments to the agreement was that the Bell Operating Companies could provide customer premises equipment (CPE): they just couldn’t become manufacturers. They would have to buy CPE from competitive firms, including AT&T.
+```
+
 * [CBXs  LANs 1984](http://www.historyofcomputercommunications.info/Book/8/8.28-ATT-CBXsLANsTo1984.html)
-* [Does IBM Need Both LANs PBXs?](http://www.historyofcomputercommunications.info/Book/8/8.29-DoesIBMNeedBothLANPBXs.html)
-* [1982](http://www.historyofcomputercommunications.info/Book/8/8.30-3ComUngermann-BassandSytek1982.html)
+
+```
+Even after the breakup, AT&T remained dominant in Customer Premises Equipment (CPE) - $4 billion of CPE assets were transferred to the new AT&T, hereafter AT&T, on January 1, 1984.[16]  Only CBXs had begun gobbling voracious bites out of AT&T’s market share beginning in the late-1970s. AT&T, free to begin competing after January 2, 1982, would take until 1983 before introducing their first CBX. The System 85 was designed for large applications: it could support up to 32,000 lines. A year later they introduced the smaller version System 75 that supported a maximum of 800 lines.[17]  They would continue to lose market share as shipping problems compounded already being late-to-market. Not until 1984 was AT&T nominally competitive.[18]
+```
+
 * [3Com](http://www.historyofcomputercommunications.info/Book/8/8.31-3Com.html)
-* [Ungermann-Bass](http://www.historyofcomputercommunications.info/Book/8/8.32-Ungermann-Bass.html)
-* [Sytek](http://www.historyofcomputercommunications.info/Book/8/8.33-Sytek.html)
+
+```
+The XNS-based EtherSeries took advantage of the knowledge gained from working with XNS and TCP/IP networking protocols. They were in fact offering some of the higher-level services inherent in these networking systems such as file sharing, print sharing and a platform on which to build other user applications. These services and features reflect a user’s, especially a computer user’s, point-of-view, one very different than those of the communication community that thought in terms of physical connections and moving bits reliably over those connections.
+
+EtherSeries would be a success. 3Com had skirted disaster.
+```
+
 * [Ethernet Chips: Boundless Hope Market Confusion](http://www.historyofcomputercommunications.info/Book/8/8.34-Ethernet%20Chips-,BoundlessHope%20MarketConfusion.html)
 * [InPerspective](http://www.historyofcomputercommunications.info/Book/8/8.35-InPerspective.html)
 
+```
+1981-1982 witnessed the early uncertainties and confusion of a forming market. Given sufficient economic potential in a perceived market, a large number of firms, both existing and new, will attempt to compete successfully for market share. In Networking, up to 200 firms announced products. In another common feature of emerging markets, the largest of firms often have the most difficulty competing. AT&T once meant communications and was on their way to becoming an also ran. AT&T was willing to disband to have the freedom to compete in the computer market, and they will, and they will fail. IBM had unsuspectingly introduced creative destruction with their PC, and yet had a hard time making sense of it. They got into the PBX business, and will get out in the future. They shadowboxed the LAN market into early paralysis, contributing more than their share to mass confusion. Or as DataPro, a respected research firm, wrote in December 1982:
+```
 
 ### 9. Standards: An Enabling Institution 1979 -1984
 
 * [Overview](http://www.historyofcomputercommunications.info/Book/9/9.0-Overview.html)
 * [Standards Making and the OSI Reference Model](http://www.historyofcomputercommunications.info/Book/9/9.1-StandardsMakingAndOSI-ReferenceModel.html)
+
+```
+While most of the history observed in this reconstruction focuses on the emergence of new markets pioneered by new firms, market order does not always coalesce when their exist many new technologies to solve similar problems. The use of institutions to solve such impasses often proves successful. This chapter recounts the histories of how standards were created to bring market order to local area networking and begin a period of explosive growth for Networking. The social entrepreneurs responsible for the creation of new standards-making institutions faced more political than economic challenges. To be successful meant securing the backing of existing authority structures and then leading frequently hostile parties to collective decisions. The two efforts examined most closely are those of the Institute of Electrical and Electronics Engineers (IEEE) Committee 802 and the International Standards Organization Technical Committee (ISO/TC) 97 Subcommittee 16. The former is a United States organization and the latter an international one; albeit both were closely observed and influenced by individuals and organizations regardless of country of origin (See Exhibit 9.0 Standards Organizations). 
+```
+
+![](https://imgur.com/nW98VFh.png)
+
 * [IEEE Committee 802-1979-1980](http://www.historyofcomputercommunications.info/Book/9/9.2-IEEE%20Committee_802_1979-1980.html)
-* [DIX (Digital Equipment Corporation, Intel, and Xerox):  1979 - 1980](http://www.historyofcomputercommunications.info/Book/9/9.3-DIX_DigitalEquipmentCorporationIntelXerox)1979-1980.html)
+
+```
+"We were trying to position ourselves to develop standards in the voluntary community that we could adopt for use in the government. This is an important concept. We said: 'This is our approach. We want to work with industry in a voluntary arena to get industry backing for products so that we can buy those products.
+
+There was a fundamental difference between that way of doing business and the way the Department of Defense wants to do business. The Department of Defense, at the time, would throw money at a problem until it got solved. Vint Cerf and company went off to invent TCP at the time because they got lots of DOD money to make networks work. We said: 'Fine, you do whatever you need to do, but our approach is to work with industry.”
+```
+
+
+* <a href="http://www.historyofcomputercommunications.info/Book/9/9.3-DIX_DigitalEquipmentCorporationIntelXerox)1979-1980.html">DIX (Digital Equipment Corporation, Intel, and Xerox):  1979 - 1980</a>
 * [IEEE Committee 802 and DIX: 1980 - 1981](http://www.historyofcomputercommunications.info/Book/9/9.4_IEEECommittee802_DIX-1980-1981.html)
+
+```
+To avoid antitrust legal complications, the DIX members had to agree to place the results of their collaboration in the public domain for the purpose of creating a standard. On the surface, the formation of Project IEEE 802 would have seemed an ideal means to make Ethernet a standard; if not the standard. However Graube’s bias against any corporation usurping the authority of Comittee 802 set the two efforts on a collision course.
+
+Agreeing to cooperate did not mean that the DIX members shared a common view of what the Ethernet standard should be. In fact, their differences often gave rise to tensions straining the collaboration to the breaking point. But each time, the strength of their collective commitment to the commercial opportunities of local area networking prevailed and they resolved their differences. (The description and lexicon of Ethernet at the time is seen in Exhibit 9.2 Ethernet Model.)
+```
+
 * [ISO/OSI (Open Systems Interconnection): 1979 - 1980](http://www.historyofcomputercommunications.info/Book/9/9.5_ISO-OSI-OpenSystemsInterconnection-79-80.html)
 * [TCP/IP and XNS: 1979-1980](http://www.historyofcomputercommunications.info/Book/9/9.6_TCP-IP-XNS-79-80.html)
+
+```
+"We were aware of the concept of the Open Systems Interconnection Reference Model. Hubert Zimmerman and those people were trying to define that. We tried to influence many of those thoughts.
+
+I guess we were a little bit more applied, so while the Reference Model had a lot of formal verbiage, we tried to inject the layman's translation of that or what a programmer would think. We considered it somewhat academic, that it was a reference model that attempted to formalize what all of us knew, and the Reference Model, as most models did, attempted to concentrate on the bottom layers because people had experience with the bottom layers, and the higher layers became sort of fuzzy because you hadn't got to that yet.
+
+The influence was nominal, primarily because Xerox made it difficult for us to talk about some of our experiences, and many of our differences on how we viewed the model had to do with the higher level protocols."
+```
+
 * [ISO/OSI (Open Systems Interconnection): 1981- 1982](http://www.historyofcomputercommunications.info/Book/9/9.7_SO-OSI-OpenSystemsInterconnection81-82.html)
 * [TCP/IP and XNS 1981 - 1983](http://www.historyofcomputercommunications.info/Book/9/9.8_TCP-IP-XNS81-83.html)
+
+```
+At year-end 1982, two connection-less, or datagram, communication protocols for LANs did exist: TCP/IP and XNS. Their success would impact the eventual outcome of OSI.
+```
+
 * [IEEE Committee 802:  1981 - 1982](http://www.historyofcomputercommunications.info/Book/9/9.9_IEEE-Committee802-81-82.html)
+
+
+```
+“In order to pull this off, we had to get some agreements. That's the key word, 'agreements.' We had to get the people highest up in these organizations to commit resources. We had to get a commitment of the CEOs, somebody with signature authority, had to be able to say: "Here's the check, you make it happen.  Pull out all the stops. OSI is important. Make it happen." We had to get the technical people to ask the question: "Make what happen?" We had to say: "Make this happen," and we had to lay it out for them.”
+```
+
 * [ISO/OSI (Open Systems Interconnection): 1982 - 1983](http://www.historyofcomputercommunications.info/Book/9/9.10_ISO-OSI-OpenSystemsInterconnection82-83.html)
+
+```
+The years 1983-1984 represented a turning point in the history of LANs. The technological-economic dance of chaos and uncertainty shifted into standards resolution and economic growth. The first to benefit were Ethernet vendors. In 1983, Ethernet (CSMA/CD) became an IEEE, ECMA, and effectively an ISO/OSI standard. In addition, the conversion of Arpanet to TCP/IP on January 1, 1983 represented a milestone for DARPA and that TCP/IP had been successfully ported to all the leading computers of the day. By mid-year it would be available for the IBM PC. In contrast, Xerox refused to release more of XNS and, as a consequence, nearly all the LAN start-up’s would engineering their next generation products using TCP/IP not XNS. As for IBM, the lumbering giant, it would not be until 1984 before they make their intentions clear. That same year, the NCC public demonstration of OSI software was an important first step in proving the concept of vendor-independent OSI LAN software; albeit commercial products were still years away. As the finalization of standards became apparent, sales of LAN products soared 141% in 1983. Two years later they reached nearly $1 billion. Here then is a summary of those two critical years.
+```
+
 * [The Emergence of Technological Order:  1983 - 1984](http://www.historyofcomputercommunications.info/Book/9/9.11_EmergenceTechnologicalOrder-83-84.html)
 * [In Perspective](http://www.historyofcomputercommunications.info/Book/9/9.12_InPerspective.html)
+
+```
+At yearend 1984, the long trek of LAN standards making that began in March of 1978 with the first meeting of ISO/TC97/SC16 reached successful completion and LAN market growth accelerated. With the rules of the game settled, it was time to see what firms could best compete. No longer would compromises, agreements, and votes decide the future of LANs, it would be product offerings, prices and availability. Embraced within the new rules were connectionless, or datagram, protocols that had been dismissed by the powerful CCITT. Technological necessity and individual initiatives had prevailed and overcome the power of the entrenched.
+```
 
 
 ### 10. Networking: Market Order: LANs 1983-1986

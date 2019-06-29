@@ -5,7 +5,7 @@ description: Jekyll Indieweb for Decentralized Web Histories
 tags:
  - indieweb
  - Jekyll
-date: 2019-6-11
+date: 2019-6-27
 permalink: /indieweb/reboot/
 ---
 
