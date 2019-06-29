@@ -9,6 +9,10 @@ subtitle: Description of the participating organizations at the decentralized-we
 permalink: /p2p/1st-gen-napster/
 ---
 
+* http://www.internethistorypodcast.com/2017/04/the-napster-story-with-jordan-ritter/
+* https://www.wired.com/2013/04/napster/
+* https://www.geek.com/gadgets/limewire-napster-the-pirate-bay-a-brief-history-of-file-sharing-1359473/
+* http://www.historyofdomainnames.com/napster/
 
 >While finishing his freshman year at Northeastern University, Shawn Fanning decided to create a piece of software that would allow people to search for and share MP3 files they had trouble finding. He then founded a company, Napster, Inc. in May of 1999, dropped out of school, and moved to northern California. Napster quickly became the world's largest community for sharing music files because it allowed easy searching, had a user-friendly interface, let users communicate with each other in various ways (i.e. chat), and to share each others' bookmarks.
 >

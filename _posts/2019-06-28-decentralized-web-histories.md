@@ -14,10 +14,10 @@ The History of P2P technologies is generally broken up into 3 generations.
 The first, being centralized, the second decentralized, and the third arising with the introduction of darknets.
 
 
-[**Awesome Decentralized Web**](https://github.com/gdamdam/awesome-decentralized-web)
+### [Awesome Decentralized Web](https://github.com/gdamdam/awesome-decentralized-web)
 
 
-[History of Computers - P2P](http://wiki.sjs.org/wiki/index.php/History_of_Computers_-_P2P_Networks)
+* [History of Computers - P2P](http://wiki.sjs.org/wiki/index.php/History_of_Computers_-_P2P_Networks)
   >Peer to peer networks can be configured over LAN or the Internet. Local area P2P networks can be configured to be either wired or wireless and allow the sharing of files, printers, and other resources between involved computers. Over the Internet, P2P networks can handle an extremely high volume of file sharing because the workload is distributed across many computers worldwide. Internet based P2P networks are less likely to fail or experience a traffic bottleneck than client-server networks for the same reason.[[3]](http://compnetworking.about.com/od/basicnetworkingfaqs/a/peer-to-peer.htm)
   >
   > The basic idea of P2P networking has been around since 1969, when the Internet Engineering Task Force pusblished its first Request for Comments.[[4]](http://tools.ietf.org/html/rfc1) However, the first dial-up P2P network was created in 1980 in the form of Usenet, which was a worldwide Internet discussion system. The difference between other web forums and Usenet was that Usenet did not depend on a central server or administrator-- it was distributed among a constantly changing group of servers that stored and forwarded messages to one another in bursts called news feeds. Individual users could read messages from and post messages to a local server, which would then send posted messages around the world.[[5]](http://en.wikipedia.org/wiki/Usenet) 
@@ -31,16 +31,15 @@ The first, being centralized, the second decentralized, and the third arising wi
 [Caught Between the Intranet and the Decentralized Web](https://hackernoon.com/outgrowing-our-internet-caught-between-the-intranet-and-the-decentralized-web-707c532abbe2) - 2017
 
 
->[Origins of decentralized computing](https://en.wikipedia.org/wiki/Decentralized_computing#Origins_of_decentralized_computing)
->
->The origins of decentralized computing originate from the work of David Chaum.
->
->During 1979 he conceived the first concept of a decentralized computer system known as Mix Network. It enabled for an anonymous email communications network which decentralized the authentication of the messages in a protocol which would become the precursor to Onion Routing, the protocol of the TOR browser. Through this initial development of an anonymous communications network, David Chaum applied his Mix Network philosophy to design the world's first decentralized payment system and patented it in 1980 (Patent US4529870). Later in 1982, for his PhD dissertation, he wrote about the need for decentralized computing services in the paper Computer Systems Established, Maintained and Trusted by Mutually Suspicious Groups. 
+[Origins of decentralized computing](https://en.wikipedia.org/wiki/Decentralized_computing#Origins_of_decentralized_computing)
+  >The origins of decentralized computing originate from the work of David Chaum.
+  >
+  >During 1979 he conceived the first concept of a decentralized computer system known as Mix Network. It enabled for an anonymous email communications network which decentralized the authentication of the messages in a protocol which would become the precursor to Onion Routing, the protocol of the TOR browser. Through this initial development of an anonymous communications network, David Chaum applied his Mix Network philosophy to design the world's first decentralized payment system and patented it in 1980 (Patent US4529870). Later in 1982, for his PhD dissertation, he wrote about the need for decentralized computing services in the paper Computer Systems Established, Maintained and Trusted by Mutually Suspicious Groups. 
 
 
 # P2P \ Filesharing
 
-* https://www.oreilly.com/library/view/peer-to-peer/059600110X/ch01.html
+* [A Network of Peers: Peer-to-Peer Models Through the History of the Internet](https://www.oreilly.com/library/view/peer-to-peer/059600110X/ch01.html)
   > The Internet is a shared resource, a cooperative network built out of millions of hosts all over the world. Today there are more applications than ever that want to use the network, consume bandwidth, and send packets far and wide. Since 1994, the general public has been racing to join the community of computers on the Internet, placing strain on the most basic of resources: network bandwidth. And the increasing reliance on the Internet for critical applications has brought with it new security requirements, resulting in firewalls that strongly partition the Net into pieces. Through rain and snow and congested Network Access Providers (NAPs), the email goes through, and the system has scaled vastly beyond its original design.
 * [P2P Foundation](https://p2pfoundation.net)
 * [Definition of P2P](https://www.lifewire.com/definition-of-p2p-818026)
@@ -76,10 +75,9 @@ The events through the 1980s expose the need for an all-encompassing internet ro
 
 ## P2P History
 
-### [1st Gen Centralized - Napster](/1st-gen-p2p-napster/)
-### [2nd Gen Decentralized - BitTorrent](https://sourcecrypto.pub/decentralized-web/history/2019/06/03/2nd-gen-p2p-bittorrent.html)
-### [3rd Gen Darknets - Freenet](https://sourcecrypto.pub/decentralized-web/history/2019/06/02/3rd-gen-p2p-darknets.html)
-
+### [1st Gen Centralized - Napster](/p2p/1st-gen-napster/)
+### [2nd Gen Decentralized - BitTorrent](/p2p/2nd-gen-bittorrent/)
+### [3rd Gen Darknets - Freenet](/p2p/3rd-gen-darknets/)
 
 ### After Bitcoin
 

@@ -35,39 +35,15 @@ The events through the 1980s expose the need for an all-encompassing internet ro
 ## ARPANet
 
 
-* [Network Working Group Request for Comment:   1](http://tools.ietf.org/html/rfc1)
-  **Host Software, Steve Crocker - 7 April 1969**
-
-> The software for the ARPA Network exists partly in the IMPs and partly in the respective HOSTs.  BB&N has specified the software of the IMPs and it is the responsibility of the HOST groups to agree on HOST software.
->
-> During the summer of 1968, representatives from the initial four sites met several times to discuss the HOST software and initial experiments on the network.  There emerged from these meetings a working group of three, Steve Carr from Utah, Jeff Rulifson from SRI, and Steve Crocker of UCLA, who met during the fall and winter.  The most recent meeting was in the last week of March in Utah.  Also present was Bill Duvall of SRI who has recently started working with Jeff Rulifson.
->
->Somewhat independently, Gerard DeLoche of UCLA has been working on the HOST-IMP interface.
->
-> I present here some of the tentative agreements reached and some of the open questions encountered.  Very little of what is here is firm and reactions are expected.
-
-* [How the Internet was born: from the ARPANET to the Internet](http://theconversation.com/how-the-internet-was-born-from-the-arpanet-to-the-internet-68072)
-  >The openness of the RFC process helped encourage participation among the members of a very heterogeneous group of people, ranging from graduate students to professors and program managers. Following a “spirit of unrestrained participation in working group meetings”, the RFC method proved to be a critical asset for the people involved in the project. It helped them reflect openly about the aims and goals of the network, within and beyond its technical infrastructure.
-  >
-  >This particular culture informs the whole communication galaxy we call today the Internet; in fact, it is one of its defining elements. The offspring of the marriage between the RFC and the NGW are called web-logs, web forums, email lists, and of course social media while Internet-working is now a key-aspect in many processes of human interaction, ranging from solving technical issues, to finding solution to more complex social or political matters.
-
-
-* [ARPANET establishes 1st computer-to-computer link, October 29, 1969](https://www.edn.com/electronics-blogs/edn-moments/4399541/ARPANET-establishes-1st-computer-to-computer-link--October-29--1969)
-
->Originally funded by ARPA (Advanced Research Projects Agency), now DARPA, within the United States Department of Defense, ARPANET was to be used for projects at universities and research laboratories in the US. The packet switching of the ARPANET was based on designs by British scientist Donald Davies and Lawrence Roberts of the Lincoln Laboratory.
->
->**Initially, ARPANET consisted of four IMPs at:**
-
-* the University of California, Los Angeles, which had an SDS Sigma 7 as the first computer attached to it;
-*  the Stanford Research Institute's Augmentation Research Center, where Douglas Engelbart is credited with creating the NLS (oN-Line System) hypertext system, with an SDS 940 that ran NLS being the first host attached;
-*  the University of California, Santa Barbara with the Culler-Fried Interactive Mathematics Center's IBM 360/75 running OS/MVT being the machine attached;
-*  And at the University of Utah's Computer Science Department, running a DEC PDP-10 running TENEX.
 
 ## Network Control Protocol (NCP)
 
 1970 the ARPANET had its first host-to-host protocol, the Network Control Protocol (NCP)
 
  public demonstration of the ARPANET and its potentials at the International Conference on Computer Communication (ICCC) held in Washington, D.C., in October 1972.
+
+* [Internet History Timeline: ARPANET to the World Wide Web](https://www.livescience.com/20727-internet-history.html)
+* [How the Internet was Born, from Arpanet to the Internet](http://theconversation.com/how-the-internet-was-born-from-the-arpanet-to-the-internet-68072)
 
 ## Usenet - Network News Transfer Protocol (NNTP)
 1979
