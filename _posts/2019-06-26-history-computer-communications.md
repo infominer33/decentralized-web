@@ -232,8 +232,9 @@ In a paper delivered at an IFIP conference in Amsterdam in 1968, Davies discusse
 
 >The public demonstration of Arpanet at the ICCC proved that with a few simple keystrokes one could access widely dispersed computers from the same computer terminal without having to establish new connections with each computer. Even as thirty-five other users at terminals shared the same TIP accessing different computers, or even the same computers - each believing they had sole use of the communication network. Regardless of how mundane an accomplishment this seemed to Roberts, it represented a watershed in computer communications. The revolutionary concept of computers communicating simply by sending packets of data whenever desired over a shared communications network versus having to establish a circuit, send data and terminate the circuit, had been proven. Arpanet, the first packet-switching network, forever changed how computer communications would evolve.
 
->Although the many computer scientists who had been involved with Arpanet dispersed after the ICCC, they took with them the seminal ideas and optimistic energy of those special days. Soon many were innovating computer communications in ways that could never have been predicted. The story of one such innovation – local area networking – specifically Ethernet – will follow. But first comes the story of how the data communication companies responded to the growing need to interconnect computers.
-
+```
+Although the many computer scientists who had been involved with Arpanet dispersed after the ICCC, they took with them the seminal ideas and optimistic energy of those special days. Soon many were innovating computer communications in ways that could never have been predicted. The story of one such innovation – local area networking – specifically Ethernet – will follow. But first comes the story of how the data communication companies responded to the growing need to interconnect computers.
+```
 
 ### 5. Data Communications: Market Order 1973-1979
 
@@ -260,7 +261,6 @@ By 1979, the engine of entrepreneurship set in motion in 1968-1969, and instanti
 
 Even as the firms of data communication were speeding the efficient transfer of bits of data at ever declining prices, another whole community of innovators was transforming the ARPANET into a functioning network and beginning to explore how to both improve and diffuse this new technology of communicating packets not bits. The exposition of packet technology would take paths of originality that by 1979 would set off a new explosion of entrepreneurship that would run directly into the future being carved out by the firms in data communications. But first to the story of how the diffusion of packet switching led to local area networking. 
 ```
-
 
 ### 6. Networking: Diffusion 1972-1979
 
