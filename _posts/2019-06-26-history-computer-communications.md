@@ -352,11 +352,13 @@ Once constituted, the study group had to convince American computer companies to
 
 I'm not 100% on this...Chaum fits in around here somewhere.. I don't know of him specifically in relation to decentralization...
 
-[Origins of decentralized computing](https://en.wikipedia.org/wiki/Decentralized_computing#Origins_of_decentralized_computing)
-  >The origins of decentralized computing originate from the work of David Chaum.
-  >
-  >During 1979 he conceived the first concept of a decentralized computer system known as Mix Network. It enabled for an anonymous email communications network which decentralized the authentication of the messages in a protocol which would become the precursor to Onion Routing, the protocol of the TOR browser. Through this initial development of an anonymous communications network, David Chaum applied his Mix Network philosophy to design the world's first decentralized payment system and patented it in 1980 (Patent US4529870). Later in 1982, for his PhD dissertation, he wrote about the need for decentralized computing services in the paper Computer Systems Established, Maintained and Trusted by Mutually Suspicious Groups. 
+[en.wikipedia.org/wiki/Decentralized_computing#Origins_of_decentralized_computing](https://en.wikipedia.org/wiki/Decentralized_computing#Origins_of_decentralized_computing)
 
+```
+The origins of decentralized computing originate from the work of David Chaum.
+
+During 1979 he conceived the first concept of a decentralized computer system known as Mix Network. It enabled for an anonymous email communications network which decentralized the authentication of the messages in a protocol which would become the precursor to Onion Routing, the protocol of the TOR browser. Through this initial development of an anonymous communications network, David Chaum applied his Mix Network philosophy to design the world's first decentralized payment system and patented it in 1980 (Patent US4529870). Later in 1982, for his PhD dissertation, he wrote about the need for decentralized computing services in the paper Computer Systems Established, Maintained and Trusted by Mutually Suspicious Groups. 
+```
 
 
 ### 7. Networking: Emergence 1979-1981

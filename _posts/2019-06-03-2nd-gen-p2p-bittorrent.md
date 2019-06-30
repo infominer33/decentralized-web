@@ -26,7 +26,9 @@ permalink: /p2p/2nd-gen-bittorrent/
 
 ## Bittorent
 
-* https://www.wired.com/2017/01/the-inside-story-of-bittorrents-bizarre-collapse/
+* [WIRED -The Inside Story of BitTorrent’s Bizarre Collapse](https://www.wired.com/2017/01/the-inside-story-of-bittorrents-bizarre-collapse/)
+
+![](https://imgur.com/ZTaGyi2l.png)
 
 * [visual.ly - infographic -history-bittorrent](https://visual.ly/community/infographic/technology/history-bittorrent)
 

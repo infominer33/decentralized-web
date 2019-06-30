@@ -13,7 +13,14 @@ This page is just a loose collection, of mostly high-level \ early p2p history. 
 
 Of course it took a bit of fiddling about with the publish date to achieve this effect, but I think it was worth the effort. 
 
-### [gdamdam/awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web)
+* [Introduction to Peer-To-Peer Networks](http://compnetworking.about.com/od/basicnetworkingfaqs/a/peer-to-peer.htm)
+
+```
+Internet-based peer-to-peer networks became popular in the 1990s due to the development of P2P file-sharing networks such as Napster. Technically, many P2P networks are not pure peer networks but rather hybrid designs as they utilize central servers for some functions such as search.
+```
+
+## [gdamdam/awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web)
+
 
 [![](https://cdn-images-1.medium.com/max/800/0*QDJ26V1pEdCBssOI.)](https://hackernoon.com/outgrowing-our-internet-caught-between-the-intranet-and-the-decentralized-web-707c532abbe2)
 [Caught Between the Intranet and the Decentralized Web](https://hackernoon.com/outgrowing-our-internet-caught-between-the-intranet-and-the-decentralized-web-707c532abbe2) - 2017
@@ -62,7 +69,7 @@ The events through the 1980s expose the need for an all-encompassing internet ro
 * [History of Computers - P2P](http://wiki.sjs.org/wiki/index.php/History_of_Computers_-_P2P_Networks)
 
 ```
-Peer to peer networks can be configured over LAN or the Internet. Local area P2P networks can be configured to be either wired or wireless and allow the sharing of files, printers, and other resources between involved computers. Over the Internet, P2P networks can handle an extremely high volume of file sharing because the workload is distributed across many computers worldwide. Internet based P2P networks are less likely to fail or experience a traffic bottleneck than client-server networks for the same reason.(http://compnetworking.about.com/od/basicnetworkingfaqs/a/peer-to-peer.htm)
+Peer to peer networks can be configured over LAN or the Internet. Local area P2P networks can be configured to be either wired or wireless and allow the sharing of files, printers, and other resources between involved computers. Over the Internet, P2P networks can handle an extremely high volume of file sharing because the workload is distributed across many computers worldwide. Internet based P2P networks are less likely to fail or experience a traffic bottleneck than client-server networks for the same reason.
 
 ```
 
@@ -105,13 +112,15 @@ If you feel like jumping around, you can always come back here for the main navi
 
 ## P2P-Extra
 
-* https://download.cnet.com/s/internet-file-sharing/windows/
-
-![](https://imgur.com/Qvp3WVx.png)
+[![](https://imgur.com/Qvp3WVx.png)](https://download.cnet.com/s/internet-file-sharing/windows/)
   
-* https://wiki.debian.org/eDonkey
-  >* aMule -aMule is a peer to peer file sharing application that works with the eDonkey computer network, but offers more features than the standard eDonkey client. It is based on the eMule sourcecode, and evolved from ?LMule and xMule. It is now the Linux client on the eMule links section on their webpage. As eMule, aMule is open source software released under the GNU ?GeneralPublicLicense.
-    * http://www.emule-project.net eMule project - or http://emule.sf.net eMule on Sourceforge
-    * http://www.freemule.net/ Freemule.net - Website with the latest news on eMule's legal actions
-    * http://www.amule.org aMule's homepage - or aMule on ?BerliOS
-    * http://wiki.amule.org/ aMule Wiki- Wiki of the aMule Project
+* [wiki.debian.org/eDonkey](https://wiki.debian.org/eDonkey)
+
+```  
+aMule -aMule is a peer to peer file sharing application that works with the eDonkey computer network, but offers more features than the standard eDonkey client. It is based on the eMule sourcecode, and evolved from ?LMule and xMule. It is now the Linux client on the eMule links section on their webpage. As eMule, aMule is open source software released under the GNU ?GeneralPublicLicense.
+```
+
+* [emule-project](http://www.emule-project.net) eMule project - or [eMule on Sourceforge](http://emule.sf.net) 
+* [Freemule.net](http://www.freemule.net/) - Website with the latest news on eMule's legal actions
+* [amule.org](http://www.amule.org) aMule's homepage - or aMule on ?BerliOS
+* [wiki.amule.org](http://wiki.amule.org/) aMule Wiki- Wiki of the aMule Project

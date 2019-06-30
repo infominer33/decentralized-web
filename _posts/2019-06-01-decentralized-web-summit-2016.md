@@ -9,9 +9,9 @@ subtitle: Description of the participating organizations at the decentralized-we
 permalink: "/decentralized-web-summit/"
 ---
 
-* https://2016.decentralizedweb.net/learn-more/
-* https://github.com/internetarchive/dwebsummit-site/
-* https://archive.org/search.php?query=creator%3A"Decentralized+Web+Summit"
+* [2016 - Decentralized Web-Summit - Science Fair](https://2016.decentralizedweb.net/learn-more/)
+* [internetarchive/dwebsummit-site/](https://github.com/internetarchive/dwebsummit-site/)
+* [Decentralized Web Summit @archive.org](https://archive.org/search.php?query=creator%3A"Decentralized+Web+Summit")
 
 ### [#RebootingWebOfTrust](https://github.com/WebofTrustInfo/)
 

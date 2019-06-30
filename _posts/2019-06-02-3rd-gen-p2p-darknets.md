@@ -13,7 +13,9 @@ permalink: /p2p/3rd-gen-darknets/
 
 * 1999 [Freenet](http://freenetproject.org/) 
 * Freenet went Darknet in 2008
-  * https://freenetproject.org/pages/about.html
+* [What is Freenet?](https://freenetproject.org/pages/about.html)
 
-![](https://imgur.com/gIIbDh6.png)
-[Introduction to Freenet](https://youtu.be/zu9gM3_gIfM)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zu9gM3_gIfM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!--![](https://imgur.com/gIIbDh6.png)
+[Introduction to Freenet](https://youtu.be/zu9gM3_gIfM)-->
