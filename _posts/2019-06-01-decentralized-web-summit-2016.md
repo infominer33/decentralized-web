@@ -47,10 +47,13 @@ One of the challenges with decentralized projects is to find users to scale or s
 
 >The Decentralized Autonomous Society is a distributed thinktank that also has regular meetups in Palo Alto. It has the broad goal of facilitating new types of governance that are made possible via decentralized technologies. It was founded in the early days of Ethereum. Team Members: Joel Dietz, Philip Saunders, Moritz Bierling, Tristan Roberts, Dakota Kaiser
 
-[![](https://imgur.com/jPwLX6G.png)](https://vimeo.com/119177740)
+<iframe src="https://player.vimeo.com/video/119177740" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/119177740">CONVERSATION | DECENTRALIZED AUTONOMOUS SOCIETY WITH VITALIK BUTERIN AND SAM FRANK</a> from <a href="https://vimeo.com/swissinstitute">Swiss Institute</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<!--[![](https://imgur.com/jPwLX6G.png)](https://vimeo.com/119177740)-->
 
 * [http://wiki.p2pfoundation.net/Swarm](http://wiki.p2pfoundation.net/Swarm)
-* https://blog.p2pfoundation.net/the-real-world-of-the-decentralized-autonomous-society/2017/09/06
+* [The Real World of the Decentralized Autonomous Society](https://blog.p2pfoundation.net/the-real-world-of-the-decentralized-autonomous-society/2017/09/06)
 
 ### ETH CORE LIMITED
 >**To enable businesses and organisations to capitalise on blockchain technology and benefit from the new opportunities it presents.**
