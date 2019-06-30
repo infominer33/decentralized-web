@@ -10,14 +10,13 @@ tags:
   - github
   - jekyll
 subtitle: "An implementation of miklb/jekyll-indieweb"
-permalink: "/jekyll/indieweb-deployed/"
+redirect_from: "/jekyll/indieweb-deployed/"
+permalink: "/indieweb/miklb-jekyll-deployed/"
 ---
-
-* **Previous Update** Now that I've tested out [project-pages](https://github.com/projectpages/project-pages/) and its really cool. BUT I"M BACK!
 
 <a href="https://micro.blog/infominer" rel="me">micro.blog/infominer</a>
 
----
+![](https://i.imgur.com/ahnVZ9tl.png)
 
 Welcome to an instance of [@miklb](https://github.com/miklb)'s [jekyll-indieweb](https://github.com/miklb/jekyll-indieweb).
 

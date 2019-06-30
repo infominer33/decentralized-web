@@ -156,6 +156,7 @@ Originally funded by ARPA (Advanced Research Projects Agency), now DARPA, within
 - the Stanford Research Institute's Augmentation Research Center, where Douglas Engelbart is credited with creating the NLS (oN-Line System) hypertext system, with an SDS 940 that ran NLS being the first host attached;
 - the University of California, Santa Barbara with the Culler-Fried Interactive Mathematics Center's IBM 360/75 running OS/MVT being the machine attached;
 - And at the University of Utah's Computer Science Department, running a DEC PDP-10 running TENEX.
+
 ```
 
 * [The Communications Subnet: BBN 1969](http://www.historyofcomputercommunications.info/Book/4/4.1%20The%20Communications%20Subnet-%20BBN%201969.html)

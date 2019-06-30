@@ -9,9 +9,9 @@ subtitle: Description of the participating organizations at the decentralized-we
 permalink: /histories/
 ---
 
-This page is just a loose collection, of mostly high-level \ early p2p history. A little further down, you'll find a site directory. However, it's structured so that you should be able to simply scroll through the posts, and generally progress forward through history, as you read each chronologically older post.
+This page is just a loose collection, of mostly high-level \ early p2p history. A little further down, you'll find a site directory. However, it's structured so that you should be able to simply scroll through the posts, and generally progress forward through history.
 
-Of course it took a bit of fiddling about with the publish date to achieve this effect, but I think its worth the effect. 
+Of course it took a bit of fiddling about with the publish date to achieve this effect, but I think it was worth the effort. 
 
 ### [gdamdam/awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web)
 
