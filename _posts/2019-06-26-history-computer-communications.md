@@ -137,6 +137,7 @@ This particular culture informs the whole communication galaxy we call today the
 ```
 
 * [History of Computers - P2P](http://wiki.sjs.org/wiki/index.php/History_of_Computers_-_P2P_Networks)
+
 ```  
 Peer to peer networks can be configured over LAN or the Internet. Local area P2P networks can be configured to be either wired or wireless and allow the sharing of files, printers, and other resources between involved computers. Over the Internet, P2P networks can handle an extremely high volume of file sharing because the workload is distributed across many computers worldwide. Internet based P2P networks are less likely to fail or experience a traffic bottleneck than client-server networks for the same reason.[[3]](http://compnetworking.about.com/od/basicnetworkingfaqs/a/peer-to-peer.htm)
 
