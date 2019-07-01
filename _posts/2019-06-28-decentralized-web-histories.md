@@ -26,13 +26,13 @@ Internet-based peer-to-peer networks became popular in the 1990s due to the deve
 [Caught Between the Intranet and the Decentralized Web](https://hackernoon.com/outgrowing-our-internet-caught-between-the-intranet-and-the-decentralized-web-707c532abbe2) - 2017
 
 
-
 ## P2P and Decentralized Web Histories
 
 * [P2P Foundation](https://p2pfoundation.net)
 * [Definition of P2P](https://www.lifewire.com/definition-of-p2p-818026)
 * [A Brief History of Peer to Peer Netowrks](https://learnoutlive.com/a-brief-history-of-peer-to-peer-networks/)
 * [Limewire, Napster, The Pirate Bay](https://www.geek.com/gadgets/limewire-napster-the-pirate-bay-a-brief-history-of-file-sharing-1359473/)
+* [Introduction to P2P Networks - Limewire](https://www.lifewire.com/introduction-to-peer-to-peer-networks-817421)
 * [A Network of Peers: Peer-to-Peer Models Through the History of the Internet](https://www.oreilly.com/library/view/peer-to-peer/059600110X/ch01.html)
 
 ```
@@ -94,7 +94,7 @@ If you feel like jumping around, you can always come back here for the main navi
 ## [1st Gen Centralized - Napster](/p2p/1st-gen-napster/)
 ## [2nd Gen Decentralized - BitTorrent](/p2p/2nd-gen-bittorrent/)
 ## [3rd Gen Darknets - Freenet](/p2p/3rd-gen-darknets/)
-## [Decentralized Web Summit- 2016 Participating Organizations](/decentralized-web-summit/)
+## [Decentralized Web Summit- 2016 Participating Organizations](/decentralized-web/decentralized-web-summit/)
 
 ### After Bitcoin
 

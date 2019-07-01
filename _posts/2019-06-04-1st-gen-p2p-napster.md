@@ -13,6 +13,7 @@ permalink: /p2p/1st-gen-napster/
 * [wired: The Short History of Napster 1.0](https://www.wired.com/2013/04/napster/)
 * [LimeWire, Napster, The Pirate Bay: A Brief History of File Sharing](https://www.geek.com/gadgets/limewire-napster-the-pirate-bay-a-brief-history-of-file-sharing-1359473/)
 * [historyofdomainnames.com/napster/](http://www.historyofdomainnames.com/napster/)
+* [Napster is Finally Dead, here's a look back at what happened](https://www.businessinsider.com/napster-is-finally-dead-heres-a-look-back-at-what-happened-2011-10?IR=T)
 
 >While finishing his freshman year at Northeastern University, Shawn Fanning decided to create a piece of software that would allow people to search for and share MP3 files they had trouble finding. He then founded a company, Napster, Inc. in May of 1999, dropped out of school, and moved to northern California. Napster quickly became the world's largest community for sharing music files because it allowed easy searching, had a user-friendly interface, let users communicate with each other in various ways (i.e. chat), and to share each others' bookmarks.
 >
