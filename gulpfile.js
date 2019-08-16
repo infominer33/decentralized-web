@@ -70,7 +70,7 @@ function css() {
 
 // Jekyll
 function jekyll() {
-  return cp.spawn("bundle", ["exec", "jekyll", "build", "--config", "_config.yml,_config_dev.yml"], {
+  return cp.spawn("bundle", ["exec", "jekyll", "build"], {
     stdio: "inherit"
   });
 }
